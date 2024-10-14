@@ -124,3 +124,18 @@ section {
     padding-bottom: 80px;
     padding-top: 80px;
 }
+
+section {
+    background: rgb(254, 8, 0);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+}
+
+section {
+    background: rgb(253, 1, 1);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
