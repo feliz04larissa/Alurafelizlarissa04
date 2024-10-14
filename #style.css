@@ -115,3 +115,8 @@ section {
     background: rgb(213, 163, 156);
     padding-bottom: 80px;
 }
+section {
+    background: rgb(254, 28, 3);
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
