@@ -1,11 +1,13 @@
 element.style {
 
 }
-body 
-display: block;
-margin: 8px;
-element.style {
+body {
+    color: red;
+    display block;
+    margin: 8px;
     background: black;
+    element.style {
+    
   }
   body {
   display: block;
@@ -139,3 +141,15 @@ section {
     display: flex;
     justify-content: center;
 }
+
+div {
+    margin-right: 20px;
+}
+<section>
+    <div class="chamada-texto">
+        <h1>sccp</h1>
+        <p>#corinthians </p>
+    </div>
+
+    <!-- código omitido -->
+</section>
