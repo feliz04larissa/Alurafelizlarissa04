@@ -93,3 +93,12 @@ body {
     background: black;
     margin: 0px;
 }
+header {
+    border-bottom: solid 2px rgb(227, 232, 237);
+    padding: 20px;
+}
+header {
+    border-bottom: solid 2px rgb(15, 16, 16);
+    padding: 20px;
+    font-size: 32px;
+}
