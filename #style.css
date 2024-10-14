@@ -71,3 +71,25 @@ element.style {
 </div>
 
 </body>
+body {
+    color: white;
+    background: black;
+}
+
+header {
+
+}
+header {
+    border: solid 2px white;
+}
+header {
+    border: solid 2px rgb(8, 8, 8);
+}
+header {
+    border-bottom: solid 2px rgb(240, 241, 244);
+}
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+}
