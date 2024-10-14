@@ -102,3 +102,16 @@ header {
     padding: 20px;
     font-size: 32px;
 }
+header {
+    border-bottom: solid 2px rgb(228, 61, 42);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(17, 17, 17);
+}
+section {
+    background: rgb(234, 33, 15);
+}
+section {
+    background: rgb(213, 163, 156);
+    padding-bottom: 80px;
+}
