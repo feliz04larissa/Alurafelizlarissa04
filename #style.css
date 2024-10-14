@@ -20,9 +20,12 @@ element.style {
     color: white;
     background: black;
 }
-<head>
-    <link rel="stylesheet" href="styles.css">
+    <head>
+
+        <link rel="stylesheet" href="styles.css">
+
 </head>
+
 <head>
     <link rel="stylesheet" href="styles.css">
     <title>Aluraflix</title>
